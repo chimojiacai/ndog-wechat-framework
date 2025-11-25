@@ -1,0 +1,22 @@
+server:
+    address: :9001
+    callBackUrl: wechat/callback
+system:
+    appName: 奶狗微信框架 V0.O.1
+    resourcePath: resource
+    theme: light
+wechat:
+    cachePath: C:\Users\Administrator\Documents\NdogCache\
+    clearLog: 100
+    decodePict: "1"
+    dllPath: ""
+    groupMemberEvent: "1"
+    hookSilk: "1"
+    ignoreMsg: 5
+    installationPath: D:\soft\Weixin
+    logs: true
+    resend: "1"
+    timeOut: 10000
+    update: "1"
+    version:
+        - 4.12.17

@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "975Maru SC";
+  src: url("./font/975MaruSC-Regular.ttf");
+}
+
+@font-face {
+  font-family: "975Maru SC Bold";
+  src: url("./font/975MaruSC-Bold.ttf");
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+body,
+#root {
+  font-family: "975Maru SC";
+  font-weight: normal;
+  font-size: 14px;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+.scbold {
+  font-family: "975Maru SC Bold" !important;
+  font-weight: normal;
+}

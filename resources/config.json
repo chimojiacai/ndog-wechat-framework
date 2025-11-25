@@ -1,0 +1,14 @@
+{
+  "callBackUrl": "http:\/\/127.0.0.1:9001\/wechat\/callback",
+  "port": "7112",
+  "cacheData": "C:\\Users\\13301\\Documents\\DaenWxHookCache\\",
+  "timeOut": "5000",
+  "autoLogin": "0",
+  "ver": "",
+  "decryptImg": "1",
+  "noHandleMsg": "10",
+  "resend": "1",
+  "groupMemberEvent": "1",
+  "hookSilk": "0",
+  "dllPath": ""
+}
